@@ -380,7 +380,7 @@ class _HomepageState extends State<Homepage> {
                               numberofExerciseName: 5,
                               Color: const Color.fromARGB(255, 75, 14, 13),
                               onTap: () {
-                                Navigator.push(
+                                Navigator.push(      
                                   context,
                                   MaterialPageRoute(
                                     builder:
@@ -388,7 +388,7 @@ class _HomepageState extends State<Homepage> {
                                           title: 'Speaking Skills',
                                           totalExercises: 5,
                                           color: const Color.fromARGB(
-                                            255,
+                                             255,
                                             83,
                                             22,
                                             21,
@@ -469,9 +469,9 @@ class _HomepageState extends State<Homepage> {
                                   ),
                                 );
                               },
-                            ),
-                            Exercises(
-                              icon: Icons.format_paint,
+                            ), 
+                            Exercises(                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
+                              icon: Icons.format_paint,                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
                               exerciseName: 'Drowing Skills',
                               numberofExerciseName: 6,
                               Color: Color.fromARGB(255, 52, 47, 101),

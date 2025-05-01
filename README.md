@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # new_app
 
 A new Flutter project.
@@ -16,3 +17,7 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 # New_app
 # New_App.Learning
+=======
+# Basic-UI
+this is a Basic-Ui of 
+>>>>>>> 25ed68d5eaa9369cdcb013f4f52e90731b305160
